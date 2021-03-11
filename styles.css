@@ -5,10 +5,9 @@ a, a:link, a:visited {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	border-width: 5px;
-	border-color: #22ff22;
-	border-radius: 5px;
 	transition: 1s;
+	border: 2px solid #22ff22;
+	border-radius: 5px;
 }
 
 a:hover, a:active {
