@@ -12,6 +12,6 @@ a, a:link, a:visited {
 
 a:hover, a:active {
 	background-color: #ff0000;
-	border-color: #ffff00;
+	color: #ffff00;
 	transition: 0.5s;
 }
